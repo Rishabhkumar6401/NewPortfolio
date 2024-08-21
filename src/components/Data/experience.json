@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developer Intern",
+    "organisation": "Two Waits Technologies Pvt Ltd",
+    "startDate": "06-2022",
+    "endDate": "07-2024",
+    "location": "Remote",
+    "experiences": [
+      "Developed a responsive frontend of Food Delivery Website",
+      "Learn backend fundamentals"
+    ],
+    "imageSrc": "company/twoWaits.png"
+  },
+  {
+    "id": 2,
+    "role": "Software Developer",
+    "organisation": "Gozoom Technologies Pvt Ltd",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "location": "Remote",
+    "experiences": [
+      "Working on backend for 3 apps with Node.js, Express.js, MongoDB, and JWT, and created 10+ real estate landing pages using HTML, CSS, JavaScript, PHP, and MySQL",
+      "Extensive experience in digital marketing, running Google & Meta ads, on-page SEO, and keyword research for one of our Real estate client"
+    ],
+    "imageSrc": "company/gozoom.png"
+  }
+]
