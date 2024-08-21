@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Experince from './components/Experince';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
